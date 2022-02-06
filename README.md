@@ -1,6 +1,6 @@
 # About
 
-![autoSmelter](icon.jpg)
+![autoSmelter](icon.png)
 
 [FR] Simple plugin configurable permettant de cuire les minerais dès qu'ils sont cassés
 
