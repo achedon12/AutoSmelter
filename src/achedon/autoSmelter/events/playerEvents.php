@@ -2,7 +2,7 @@
 
 namespace achedon\autoSmelter\events;
 
-use acheon\autoSmelter\smelter;
+use achedon\autoSmelter\smelter;
 use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\event\Listener;
 use pocketmine\item\ItemFactory;
