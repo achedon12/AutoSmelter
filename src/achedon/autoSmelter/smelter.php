@@ -1,6 +1,6 @@
 <?php
 
-namespace acheon\autoSmelter;
+namespace achedon\autoSmelter;
 
 use achedon\autoSmelter\events\playerEvents;
 use pocketmine\permission\Permission;
