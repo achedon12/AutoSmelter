@@ -24,9 +24,6 @@ class smelter extends PluginBase implements PluginOwned {
         $this->getServer()->getPluginManager()->registerEvents(new playerEvents(), $this);
     }
 
-    protected function onDisable(): void{
-        $this->saveResource("config.yml");
-    }
 
     public static function config(): Config{
         return new Config(self::$instance->getDataFolder() . "config.yml", Config::YAML);
